@@ -1,0 +1,10 @@
+pytorch
+sklearn
+setuptools
+os
+Pathlib
+torch
+pylzma
+tokenizers
+tqdm
+transformers
